@@ -1,0 +1,12 @@
+D:\VB FILM\project VB apichat\project VB apichat\bin\Debug\project VB apichat.exe.config
+D:\VB FILM\project VB apichat\project VB apichat\bin\Debug\project VB apichat.exe
+D:\VB FILM\project VB apichat\project VB apichat\bin\Debug\project VB apichat.pdb
+D:\VB FILM\project VB apichat\project VB apichat\bin\Debug\project VB apichat.xml
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project VB apichat.vbprojResolveAssemblyReference.cache
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project_VB_apichat.Form1.resources
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project_VB_apichat.frmlab2.resources
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project_VB_apichat.Resources.resources
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project VB apichat.vbproj.GenerateResource.Cache
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project VB apichat.exe
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project VB apichat.xml
+D:\VB FILM\project VB apichat\project VB apichat\obj\Debug\project VB apichat.pdb
