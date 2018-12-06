@@ -1,0 +1,11 @@
+D:\VB\LAB 1\LAB 1\bin\Debug\LAB 1.exe.config
+D:\VB\LAB 1\LAB 1\bin\Debug\LAB 1.exe
+D:\VB\LAB 1\LAB 1\bin\Debug\LAB 1.pdb
+D:\VB\LAB 1\LAB 1\bin\Debug\LAB 1.xml
+D:\VB\LAB 1\LAB 1\obj\Debug\LAB_1.Form1.resources
+D:\VB\LAB 1\LAB 1\obj\Debug\LAB_1.Resources.resources
+D:\VB\LAB 1\LAB 1\obj\Debug\My Project.vbproj.GenerateResource.Cache
+D:\VB\LAB 1\LAB 1\obj\Debug\LAB 1.exe
+D:\VB\LAB 1\LAB 1\obj\Debug\LAB 1.xml
+D:\VB\LAB 1\LAB 1\obj\Debug\LAB 1.pdb
+D:\VB\LAB 1\LAB 1\obj\Debug\My Project.vbprojResolveAssemblyReference.cache
